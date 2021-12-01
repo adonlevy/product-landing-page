@@ -1,1 +1,1 @@
-# produt-landing-page
+# product-landing-page
