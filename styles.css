@@ -1,6 +1,15 @@
-
-
 #header-img {
     max-width: 10%;
     height: auto;
+}
+
+#add-ons {
+    height: 200px;
+    display: flex;
+}
+
+.packages {
+border: 1px solid black;
+width: 50%;
+height: 50%;
 }
