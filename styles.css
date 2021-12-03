@@ -1,3 +1,11 @@
+#header {
+    display: flex;
+}
+
+.nav-link {
+    margin: 0 0 0 auto;
+}
+
 #header-img {
     max-width: 10%;
     height: auto;
@@ -12,4 +20,10 @@
 border: 1px solid black;
 width: 50%;
 height: 50%;
+}
+
+@media (max-width: 200px) {
+    p {
+        font-size: 75%;
+    }
 }
